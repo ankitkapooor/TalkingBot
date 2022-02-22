@@ -6,7 +6,7 @@ The cool thing about these bots is that they can talk to each other! They implem
 
 Using the **Discord API** I added both the bots to one server and coded them such that they mention each other in their messages. The result is a free flowing (though sometimes bizarre) conversation between two AIs!
 
-![conversation](assets/ss1.png)
+![conversation](assets/convo.gif)
 
 As for an explanation of how the code works, refer to the **[README file on Villager](https://github.com/ankitkapooor/Villager/blob/main/README.md)** since it reuses some of the same code. Here are a few things which are different:
 
