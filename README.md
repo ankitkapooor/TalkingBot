@@ -1,4 +1,4 @@
-#TalkingBot
+# TalkingBot
 
 These are two separate bots, **Bot1** and **Bot2**, created on top of a distilled version of **[GPT-2](https://openai.com/blog/better-language-models/)** by using the **[HuggingFace Repository](https://huggingface.co/)**. The bot is trained on the open source dataset, **[Topical-Chat Repository](https://github.com/alexa/Topical-Chat)** made available by Amazon.
 
