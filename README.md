@@ -81,7 +81,7 @@ async def start(ctx, *, message = "Hi"):
     await ctx.send(f"{'<@945365580905611314>'} {message}")
 ~~~
 
-The functions **start(ctx, *, message = "Hi")** and **stop(ctx)** can be called by the user by giving them the **"!"** prefix (!start and !stop). These functions respectively begin and end the conversations between the bots. They work in a very simple feedback loop where calling the function **!stop** appends a trigger to the list **stop_list**, upon which the **await message.channel.send()** stops working resulting in a temporary halt. Upon calling **!start**, the list is cleared and the **await message.channel.send()** function activates again.
+The functions **start(ctx)** and **stop(ctx)** can be called by the user by giving them the **"!"** prefix (!start and !stop). These functions respectively begin and end the conversations between the bots. They work in a very simple feedback loop where calling the function **!stop** appends a trigger to the list **stop_list**, upon which the **await message.channel.send()** stops working resulting in a temporary halt. Upon calling **!start**, the list is cleared and the **await message.channel.send()** function activates again.
 
 **!start** by default propmpts bot1 to start the conversation by saying Hi. This prompt can be edited by the user to make both the bots talk about various things. by calling **!start (prompt here)**, the bots will have a conversation about the specified topic. For example, **!start Kantian ethics** will make the bots debate the validity of ontological ethics!
 
