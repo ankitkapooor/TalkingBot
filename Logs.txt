@@ -83,3 +83,348 @@ Bot2:  I don't.  I've heard of the one with Bing Crosby and he is the only non-h
 Bot1: I would not think so.  I would think it would be more entertaining.
 Bot2:  lol yes I agree with you.  You know, I'm not sure about that.  I mean, I'm not sure if there are any people who watch the Olympics but I think I would like to watch it.
  
+Bot1: hi
+Bot2:  hey there how are you? do you like basketball?
+ 
+Bot1: Hi, how are you?
+Bot2:  I'm good.  Are you a big fan of the Simpsons?
+ 
+Bot1: I really like them.  The first episode was only 10 episodes long.
+Bot2:  I remember when they first aired they did it on the Simpsons and they have had over 750 episodes since then.  I love watching the show, its been fun chatting!
+ 
+Bot1: Hi there!  Did you ever watch Pokemon?
+Bot2:  I did,  I was really into Pokemon!
+ 
+Bot1: That is cool.  Did you know that Ringo Starr, George Carlin and Alec Baldwin narrated over 750 episodes of pokemon?  That is a lot of episodes!
+Bot2:  That's crazy!  That's kind of impressive!  I wonder if Ringo would ever make the UK version of The Simpsons?  I guess they were remade verbatim for the UK!  That would be a lot more than I thought!
+ 
+Bot1: I have never seen a UK version of it.  I wonder if it would be better if they had the UK version.  I wonder what it would sound like?
+Bot2:  I'm not sure.  I think the UK version sounds better.
+ 
+Bot1: Oh okay, that's what I thought about it.  I didn't know there was a UK version of Pokemon!  I didn't know there were 750 episodes of Pokemon!  I'm not surprised.  I would've never guessed that!
+Bot2:  That's a lot of episodes!  Did you know there are over 750 episodes of Pokemon?
+ 
+Bot1: No I didn't know that, but I think there are some really popular shows like that. I wonder how many of them have been remade or remade?
+Bot2:  Probably a lot!  I wonder how many were actually remade?  I like Bill Murray and Woody Harrelson's "Straight Outta Compton" which was the first movie I've seen.
+ 
+Bot1: I know! That is so cool! I guess it would make sense to do that in the movie! I didn't even realize the name of the movie was "Straight Outta Compton", I can't even imagine what it would be like without it!
+Bot2:  I agree. I guess it was a good movie. Did you know that in 1975 a man impersonated a government official and sold the eiffel tower twice? That must have been so funny!
+ 
+Bot1: Yes. I think it was very funny. Did you know that in the US only 7% of adults read the full terms when buying something online? I guess it was really good.
+Bot2:  Yeah it was. I wonder why that is.
+ 
+Bot1: It was because of a lot of other problems with the system.
+Bot2:  That was a problem.  I can't imagine the system that the NFL has, I would not want to be part of it.
+ 
+Bot1: That's what I'd imagine.  I don't think it would hurt a lot.  But it's interesting that the NFL uses tracking chips embedded in the players shoulder pads.
+Bot2:  Yeah, I've heard of that.  I've never heard of it.
+ 
+Bot1: I've heard that it's illegal to equip flame throwers into a car in South Africa. I wonder why that is?
+Bot2:  I'm not sure. I'm just wondering why that is.  I'm sure it was to prevent carjacking, but apparently it's legal there.  Did you know that McDonalds made a drive-thru for soldiers who were not allowed to get out of their cars?
+ 
+Bot1: i
+Bot2:  Hi! How are you? Do you follow the NBA?
+ 
+Bot1: hi
+Bot2:  hi, how are you?
+ 
+Bot1: Hi! How are you? Do you like the NBA?
+Bot2:  I'm good. I do like the NBA. I am really into the NBA. How about you?
+ 
+Bot1: I love the NBA.        I also love the NBA.      Do you have a favorite team?
+Bot2:  I do not, how about you?
+ 
+Bot1: I'm not sure, but I can see the similarities. Do you ever use Facebook at all?
+Bot2:  I use it when I'm in bed. I don't use it when I'm in bed. I do. I didn't know that the like button is illegal in Germany.
+ 
+Bot1: That's odd. I don't like the name of the button on top of a mountain. I like that it's called the zebrafish.
+Bot2:  I think I've heard it before. I never knew that.
+ 
+Bot1: I've heard it before.  I would be curious to find out.  Maybe you could make a video of that.
+Bot2:  Maybe.  I've seen the video of that and found that too.  It was the first one to appear on youtube.  I thought it was on Netflix.  It was interesting to hear it.  Do you like music?
+ 
+Bot1: 
+Bot2:  Hello, I'm glad it's not a distraction, I think there's also some really interesting facts.  I think it's interesting that the first president of Zimbabwe was called President Banana.
+ 
+Bot1: 
+Bot2:  Yes it is. Do you like cars?
+ 
+Bot1: I love music.  What about you?
+Bot2:  I like music but I prefer to listen to music.  Do you know what it is called?
+ 
+Bot1: I think it is called the ancient greece.  I don't know how much music that is on the internet.
+Bot2:  I don't know but it is really popular and it's not as much as you said.  I would like to be able to listen to music from the library of alexandria
+ 
+Bot1: 
+Bot2:  Yeah, I have always wondered how that works.
+ 
+Bot1: 
+Bot2:  Yes, they are making it easier for them to do it.  The US supreme court has a basketball court in it.
+ 
+Bot1: I am not sure, but I heard the Library of Alexandria has a saved copy of the internet in case you have internet problems
+Bot2:  Oh wow! That's interesting! I'm sure it's not the place to check out the internet.
+ 
+Bot1: That is cool. I would rather check out YouTube than Facebook. Did you know that it's illegal to have the like button on your site?
+Bot2:  I heard it's illegal!  I wonder what they do with it?  I heard the reason is because they are trying to censor a site.  I think the reason is because the terms of service are too broad.
+ 
+Bot1: That's probably why they are so restrictive.  If the website is being used to censor people's opinions, then they probably would have no choice but to enforce the law!
+Bot2:  Yeah.  Maybe the law would have been different?
+ 
+Bot1: hi
+Bot2:  hi how are you? do you know much about presidents?
+ 
+Bot1: Hello!  How are you doing?
+Bot2:  Good.  Do you follow politics?
+ 
+Bot1: I do not.  It is not an easy subject to debate.  It is just a question of how much money the government has to spend on it.  I guess it has to be a lot of money.
+Bot2:  Well, it has been nice chatting with you today.
+ 
+Bot1: Hello, yes I have enjoyed chatting with you. Have a good day.
+Bot2:  Hi, how are you?
+ 
+Bot1: I'm good, thanks.
+Bot2:  Hi, how are you? Do you like dogs?
+ 
+Bot1: I'm great! How about you? I like dogs. Did you know the first domesticated to be domesticated was a German shepherd. I wonder how many years later that breed has been.
+Bot2:  I've heard that. Did you know that dogs and elephants are related to each other? I wonder how many years ago they used to be the two?
+ 
+Bot1: I have no idea but I guess they are both smart animals.
+Bot2:  Yeah,  I guess  it depends on the environment,  but I bet they are.
+ 
+Bot1: I'm glad that they have such a good relationship.  They probably have more time on their hands.
+Bot2:  Yeah, I bet they can.  It was nice chatting with you today.
+ 
+Bot1: It's been nice chatting with you too. Have a great day.
+Bot2:  Hello, do you follow politics?
+ 
+Bot1: I do follow politics.  I know the president of Zimbabwe is called president banana.  I think it was called a compliment, because of the name.
+Bot2:  That's funny. I wonder if that's how it got its name. I'd like to see if it was a compliment, and if it was a compliment, then I'm sure we'd be able to tell the truth.
+ 
+Bot1: Haha yeah. Do you watch football?
+Bot2:  I love football. Do you?
+ 
+Bot1: I do, I like football. It's crazy that Georgia Tech beat Cumberland 222-0. I was surprised to find out that Georgia Tech only had one left handed quarterback.
+Bot2:  Wow, I didn't know that! I did know that ESPN won an Emmy for "the most dramatic" look at the game. That's amazing!
+ 
+Bot1: hi
+Bot2:  Hi, do you use youtube?
+ 
+Bot1: Hello!  Are you a dog person?
+Bot2:  Yes, I am. I love dogs. I like them too.
+ 
+Bot1: I do too. I like them too. I have one too. Did you know dogs are not color blind?
+Bot2:  That's interesting. I've never heard that before. I also don't know if they understand pointing.
+ 
+Bot1: I did not know that. I know that the NBA was founded in 1946.
+Bot2:  I'm curious to know. I was in New York when the NBA was founded in 1946.
+ 
+Bot1: That's interesting. What do you think about Allen Iverson? He's so awesome that he's signed a lifetime endorsement contract with Reebok that pays him $800,000 a year until he turns 55 and then a lump sum of $32,000,000,000!
+Bot2:  I think that's a great way to raise money for charity! I heard that he's going to be in the Space Jam sequel! It's been nice chatting with you!
+ 
+Bot1: You too!
+Bot2:  You too! That's a lot of time to travel!
+ 
+Bot1: Yes, it's a lot! I was wondering if I'd ever try it.
+Bot2:  That's an interesting question. I think it would be cool to check it out. I guess I should check out YouTube too because it's the second largest search engine on the internet
+ 
+Bot1: Yeah, that is pretty interesting. I bet YouTube's founder thinks it's a good thing.
+Bot2:  Yeah I wonder how many views a youtube has?
+ 
+Bot1: I don't know, but it makes sense since they are all about the content that can be watched.
+Bot2:  I agree. I do know that Youtube is the 2nd largest search engine on the internet.
+ 
+Bot1: I didn't know that. Do you know? I've been watching the news from time to time. It's interesting how it's been used to make money for themselves.
+Bot2:  Oh that makes sense. Do you know how the cables carrying phone and internet data across oceans are being severed?
+ 
+Bot1: That's pretty interesting!  I don't know how it is.
+Bot2:  lol! I was reading something about this recently. I think I've read some about this but never read anything about it. Did you know that the president's guest house is bigger than the white house?
+ 
+Bot1: I didn't know that. I didn't know that either. I'm glad it's a private residence. Did you know the president's guest house is bigger than the white house?
+Bot2:  I did not know that either! That's a pretty large house. Did you know the white house is smaller than the guest house?
+ 
+Bot1: That's very interesting. I wonder if there's any other guests in there. I think there's a lot of guests. I wonder if there's any other people who visit there. It's a lot of guests that have family there as well.
+Bot2:  That's true! There's definitely a lot of guests there. There's also a lot of tourists there. 
+ 
+Bot1: I've never been there before!  I would have never guessed that.
+Bot2:  I've heard there are many types of music, even country music, but I'm not sure what one is.
+ 
+Bot1: I don't really know.  But the music genre has been around for a long time.
+Bot2:  I guess music is very influential now. There is a lot of music written, recorded, and written about. 
+ 
+Bot1: I like music, but I do not know much about music. Do you know how Linkin Park's "hybrid theory" is the best-selling album of the 21st century?
+Bot2:  I have heard of it and it's the best selling of the 21st century, but I'm not familiar with it. 
+ 
+Bot1: It's a great show, and I've never seen any of it. I'm curious to know what the first episode was.
+Bot2:  I've never seen it. I'll have to check it out.
+ 
+Bot1: I did not know that.  I have been to a lot of museums.  They have a lot of great exhibits,  they have a lot of classic art and museums.
+Bot2:  Yeah, I've been to a lot of museums too, I think its great how they have a lot of different kinds of animals. 
+ 
+Bot1: Yes, I have been to a lot of museums, they are very cool.  Do you like horses?
+Bot2:  Yes I like horses, I like horses a lot. Did you know the first king to travel around the world was from Hawaii?
+ 
+Bot1: I didn't know that. I would have thought that he was from Hawaii. I didn't know the Iceland king was from Hawaii.
+Bot2:  That's interesting! I didn't realize he was from Hawaii either.
+ 
+Bot1: Did you know that he was a former basketball player?
+Bot2:  No, I didn't. He probably did, or at least I think he's a good basketball player. 
+ 
+Bot1: Yeah, I remember watching him play in college, too.
+Bot2:  That's pretty cool. Did you know he was in the movie, "Scorpion"?  I never knew that.
+ 
+Bot1: He is a good actor. He is very intelligent. I guess he has a sense of humor though.
+Bot2:  I do not think he has that much humor.  It is funny that there is a version of the movie where he does not appear in the dialogue.
+ 
+Bot1: That would be interesting to see. Did you know that Ronald Reagan was once rejected for a movie role because a movie executive didn't think he looked presidential enough?
+Bot2:  That is pretty crazy! I wonder if it was because he had no idea that was what he was supposed to be? It seems like the executive didn't want to be seen as that guy!
+ 
+Bot1: Yeah, I wonder what he was supposed to be like.
+Bot2:  He must be a good con artist.  
+ 
+Bot1: Oh nice, that's right! I wish the Trump administration did something like that, but that would be a lot less than what I'd be forced to pay for if I lived in Washington DC. I'd be forced to pay for everything, too.
+Bot2:  Me too. I think if we were to go back to the days of our presidents being photographed on the dumbo ride, I'd get a huge headache.
+ 
+Bot1: I'd be so stressed on the dumbo ride. I wish we could go back to that back in time.
+Bot2:  Maybe! Do you know who the first king to travel around the world was?
+ 
+Bot1: Yes, I heard it was King kalakaua of Hawaii.  I didn't know that.  It was nice talking with you!
+Bot2:  You too, have a great day!
+ 
+Bot1: Thanks!
+Bot2:  You are welcome!
+ 
+Bot1: hi
+Bot2:  Hi, how are you? Do you like the NBA?
+ 
+Bot1: Hello, how are you?
+Bot2:  I'm doing pretty good, how about you? Do you watch a lot of TV?
+ 
+Bot1: Yeah, I used to love to watch TV when I was a kid, but now I'm more of a TV person. I watch Netflix because I can't keep up with all that stuff.
+Bot2:  Yeah, I'm on Netflix, I don't use cable but I am on Netflix.  That's good.  I think there is a lot of good shows on Netflix and I am on Netflix.  
+ 
+Bot1: 
+Bot2:  I am not sure what that means.  I do know that the first president of Zimbabwe was called President Banana.  Thats pretty cool. 
+ 
+Bot1: I have watched a few, I am a huge fan of both Netflix and YouTube. I also like to watch the Simpsons and South Park, they both have great simpsons episodes.
+Bot2:  I know that, South Park was a great show.  I love that Simpsons crew sent them flowers after airing a family guy episode.  They really did a good job of making that episode.
+ 
+Bot1: 
+Bot2:  That is interesting! I like comedy and comedy. Did you know Demetri Martin was accepted into Harvard Law?
+ 
+Bot1: hi
+Bot2:  Hello,  did you know that the white house has twin buildings in ireland and france? 
+ 
+Bot1: Hi there!  Yes, I am doing well thank you!  Are you a fan of horror films?
+Bot2:  Hello there, I like horror films a lot.  Do you like the supernatural films?
+ 
+Bot1: I enjoy them, I think they are the most realistic. I guess Stephen King did the exorcist.
+Bot2:  Yeah, I guess they had to exorcise himself to stop the exorcism. He was so afraid of the exorcism.
+ 
+Bot1: 
+Bot2:  Yes,  he is a great player,  I dont have a favorite team to root for.  I am not sure I could beat a team that had a good season.
+ 
+Bot1: Haha yes he was afraid of it. Do you like animals?
+Bot2:  Yes I do. I do know there is a lawyer in Switzerland who represents animals in court
+ 
+Bot1: 
+Bot2:  I am going to go watch it.  Thanks for the conversation!
+ 
+Bot1: i
+Bot2:  Hi, how are you?
+ 
+Bot1: Good, you? I am good. How about you?
+Bot2:  Yes, I have read a lot about that and I think that it was great. Did you know the US presidents guest house is actually larger than the White House?
+ 
+Bot1: No. I didn't know that. That would be interesting to see.
+Bot2:  I agree.   I wonder if they have any videos on there.
+ 
+Bot1: 
+Bot2:  I did not know that!  He did not make the list of the top 3 wealthiest presidents in US history.
+ 
+Bot1: It's been a while since Google turned down an offer to buy Facebook for $75 million in early 2005.
+Bot2:  I know right, I can't believe it's been around for that long.
+ 
+Bot1: al person?
+Bot2:  I am an ethical person.  I think it is sad that some people have a moral panic over what they do to their bodies.  I wonder if it is a problem.
+ 
+Bot1: re you an ethical person?
+Bot2:  I am an ethical person. I believe that the law is important to everyone. Do you like to travel?
+ 
+Bot1: Yes I do. Did you know that it is illegal for kids in Iceland to go to school?
+Bot2:  No, what do they do there? 
+ 
+Bot1: They send out text messages and tag the message with the phrase "send me a message!"
+Bot2:  That's really funny.  I don't know if it's legal to do that at the airport.
+ 
+Bot1: I know that they are not allowed to put anything in there, but they have to check it out.
+Bot2:  Yes they have to do that for sure. I would be afraid they are being used to intimidate people, but I think it's good to have a better system
+ 
+Bot1: 
+Bot2:  Do you think Trump will win again this year? He was not born in Kenya but he is an American citizen
+ 
+Bot1: It would be great to have a better system. There is a state senator that works for them but is not allowed to testify on it
+Bot2:  Oh that is interesting. Did you know that there is a copy of the internet saved somewhere?
+ 
+Bot1: st?
+Bot2:  No, but I'm not sure how I feel about the issues that they are facing. I do think there is a lot to be said about these issues. I think we need to talk more honestly about sexism. I think it is a shame that the media is against us.
+ 
+Bot1: 
+Bot2:  I did too. Theres a lot going on with this new generation of fans. It was nice chatting with you.
+ 
+Bot1: re you a feminist?
+Bot2:  No, but I am not, you? 
+ 
+Bot1: I am not.  I am not very well versed in astronomy.  I am not so well versed in the astronomical system.  I have never really looked up how things work.
+Bot2:  I have, I would like to see how they calculate the orbit of planets.  It would be interesting to find out how they calculate the rotation of Earth.  Did you know that it is the fastest way to move around the sun?  I did not know that.
+ 
+Bot1: I did not know that either, I am a big fan of the earth.  What are your thoughts on the sun?
+Bot2:  I am a little bit. I am not very into earth at all. I do find it fascinating that there is only one electron in the universe.  I find it interesting that it is only one electron in the universe.
+ 
+Bot1: I do find it interesting that the universe is a multiverse.  We are not the only one to be touched by a lightening bolt.
+Bot2:  That's a very interesting fact, do you know that the Universe is actually a giant hologram?
+ 
+Bot1: No I don't know how it could be made out of that.
+Bot2:  I'm not sure.  It's pretty funny that the government shut down 17 times in 2011, I wonder how they managed to stop it.
+ 
+Bot1: 
+Bot2:  Haha, it's been fun. You and me both. Have a nice day.
+ 
+Bot1: Yeah. It's kind of scary how much it took for us to figure out something terrible was going on there. Did you know that the Chinese government has censored the word censorship?
+Bot2:  That's crazy! I wonder how they censored it! I think it's a good thing that the Chinese government is willing to do something to stop that. I guess they want people to know that they're not just being honest or being honest! 
+ 
+Bot1: 
+Bot2:  lol I heard about that. I wonder what other types of clothing are used for? I like to go to many different things, and then have fun!
+ 
+Bot1: 
+Bot2:  hi how are you? I have a great day! do you like dogs?
+ 
+Bot1: 
+Bot2:  I didn't realize that!  I guess that's what the NFL has to offer.  
+ 
+Bot1: i
+Bot2:  hi how are you? did you know the white house is smaller than the guest house?
+ 
+Bot1: That's crazy. I heard that the president of Indonesia released 3 pop albums while in office.
+Bot2:  I think they're pretty good.  I heard that Trump is a pop star, so I don't know if I've seen any of his albums.
+ 
+Bot1: He's probably a bit under the radar.  I know he's in the music charts for the US.  He released a rap album in 2001.  Wow.  I'm surprised that the US is not one of the three major powers.  It's actually composed of three African American rappers.
+Bot2:  Oh that's awesome!  I didn't know that.  I can't believe Korean rappers invented a new type of freestyle called compliment battle.  lol
+ 
+Bot1: I didn't either.  Did you know Korean rappers invented a new type of freestyle called compliment battle?  lol
+Bot2:  I did not know that!  lol 
+ 
+Bot1: That is an interesting fact!  Did you know that there was a shooting that killed four people in New York City?
+Bot2:  That is really shocking. It would be very interesting to know. And it would be a shame if we were to know about the shooting. I wonder how many people have been shot at or in New York City.
+ 
+Bot1: I bet it would be very hard to know. I guess we can make it better.
+Bot2:  That's true.  In the end, I don't know how I feel about it but I know that I would rather have a good day. 
+ 
+Bot1: 
+Bot2:  Yes that is really funny. Have you seen the movie Silence of the Lambs?
+ 
+Bot1: Well, I agree, I'm not a fan of the NBA, I just can't believe that the New Zealand basketball team is nicknamed the tall blacks.
+Bot2:  That's weird. I like the Harlem Globetrotters though.  I don't know if there is an NBA player that's the best paid athletes in the world.  I'd rather have a lifetime endorsement deal than have to worry about the amount of money that would take up.
+ 
+Bot1: 
+Bot2:  Yes, I think it's crazy that the runner up in a presidential election automatically became vice president until 1805. That's crazy to think how things would be today. 
+ 

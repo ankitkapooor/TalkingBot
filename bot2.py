@@ -7,9 +7,6 @@ from discord.utils import get
 from model_generator import Generator
 
 #model and tokenizer initialization through HuggingFace
-#tokenizer = AutoTokenizer.from_pretrained('Models/epochs_4/')
-#model = AutoModelForCausalLM.from_pretrained('Models/epochs_4/')
-
 tokenizer = AutoTokenizer.from_pretrained('Models/20K_steps/')
 model = AutoModelForCausalLM.from_pretrained('Models/20K_steps/')
 special_token = '<|endoftext|>'
@@ -40,7 +37,7 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-    if message.content.startswith(msg) and client.user.mentioned_in(message) and not message.content.startswith('!'):
+    if message.content.startswith(msg) and client.user.mentioned_in(message) and not message.content.startswith('!') and len(stop_list) == 0:
         await message.channel.send('<@945363896015917096>' + reply)
     await client.process_commands(message)
 
@@ -52,9 +49,19 @@ async def on_message(message):
 @client.command()
 async def help(ctx, *, message = "all"):
     name = "bot2!"
-    text = 'Just an iteration of the previous bots, here for a little experiment'
+    text = '**!help**: Provides a list of all the commands\n**!start** or **!start <prompt>**: Starts the conversation between the bots\n**!stop**: Halts the conversation between the bots.'
 
     emb = discord.Embed(title = name, description = text, color = 0xf4fc58)
     await ctx.send(embed = emb)
 
-client.run('OTQ1MzY1NTgwOTA1NjExMzE0.YhPGTg.NYNqrvD5KHXT5s9EByQDNrnD57A')
+#an easy way to stop the bots from talking
+stop_list = []
+@client.command()
+async def stop(ctx):
+    stop_list.append("stop")
+
+@client.command()
+async def start(ctx):
+    stop_list.clear()
+
+client.run('ENTER BOT TOKEN HERE')

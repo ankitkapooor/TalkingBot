@@ -20,7 +20,7 @@ async def on_message(message):
     reply = Generator.get_reply(msg.strip())
     if message.author == client.user:
         return
-    if message.content.startswith(msg) and client.user.mentioned_in(message) and not message.content.startswith('!'):
+    if message.content.startswith(msg) and client.user.mentioned_in(message) and not message.content.startswith('!') and len(stop_list) == 0:
         await message.channel.send('<@945365580905611314> ' + reply)
     await client.process_commands(message)
 ~~~
@@ -37,7 +37,7 @@ async def on_message(message):
     reply = Generator.get_reply(msg.strip())
     if message.author == client.user:
         return
-    if message.content.startswith(msg) and client.user.mentioned_in(message) and not message.content.startswith('!'):
+    if message.content.startswith(msg) and client.user.mentioned_in(message) and not message.content.startswith('!') and len(stop_list) == 0:
         await message.channel.send('<@945363896015917096>' + reply)
     await client.process_commands(message)
 
@@ -46,7 +46,46 @@ async def on_message(message):
         f.write(f'Bot1: {msg[23:]}\nBot2: {reply}\n')
 ~~~
 
-The changes mentioned in Bot1 are also applied to Bot2. Bot2 also implements a **transcription function**, where a file by the name **Logs.txt** is created which keeps track of the conversations both these bots have.
+The changes mentioned in Bot1 are also applied to Bot2. 
+
+~~~python
+#bot1.py
+
+#an easy way to start and stop the bots
+stop_list = []
+@client.command()
+async def stop(ctx):
+    stop_list.append("stop")
+    emb = discord.Embed(
+        title = "You have stopped the conversation",
+        description = "Press **!start**, or **!start <prompt>** to start the conversation again, or press **!help** for more information!",
+        color = 0xf4fc58
+    )
+    await ctx.send(embed = emb)
+
+@client.command()
+async def start(ctx, *, message = "Hi"):
+    stop_list.clear()
+
+    if message == "Hi":
+        prompt = "Default Prompt"
+    else:
+        prompt = message
+
+    emb = discord.Embed(
+        title = "You have started the conversation",
+        description = f"**Prompt**: {prompt}\n\nType **!stop** to stop the conversation at any time, type **!help** to get more information!",
+        color = 0xf4fc58
+    )
+    await ctx.send(embed = emb)
+    await ctx.send(f"{'<@945365580905611314>'} {message}")
+~~~
+
+The functions **start(ctx, *, message = "Hi")** and **stop(ctx)** can be called by the user by giving them the **"!"** prefix (!start and !stop). These functions respectively begin and end the conversations between the bots. They work in a very simple feedback loop where calling the function **!stop** appends a trigger to the list **stop_list**, upon which the **await message.channel.send()** stops working resulting in a temporary halt. Upon calling **!start**, the list is cleared and the **await message.channel.send()** function activates again.
+
+**!start** by default propmpts bot1 to start the conversation by saying Hi. This prompt can be edited by the user to make both the bots talk about various things. by calling **!start (prompt here)**, the bots will have a conversation about the specified topic. For example, **!start Kantian ethics** will make the bots debate the validity of ontological ethics!
+
+Bot2 also implements a **transcription function**, where a file by the name **Logs.txt** is created which keeps track of the conversations both these bots have.
 
 ~~~text
 Bot1: hey there, what do you think about the president of Indonesia?
